@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+   
+    width: 100%;
+    margin: 10px;
+}
+button{
+    width: 20%;
+    margin: 50px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px #000;
+    box-shadow: 5px 5px 10px #000;
+}
+h3{
+    border:solid 1px #ff0f0f3f;
+    width: 48%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 55px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(112, 112, 112);
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+    box-shadow: 5px 5px 10px #000;
+}
